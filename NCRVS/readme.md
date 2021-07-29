@@ -1,1 +1,1 @@
-This app is for store owners to create, manage their virtual stores. 
+This app is for businesses to sell their products online. The order will be placed directly to the store owner and NCR VStore acts as a transparent mediator between users and store owners. The main focus is to onboard the store owners to sell their products online and cope up with the digital era.
